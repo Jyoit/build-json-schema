@@ -199,6 +199,8 @@ const SchemaBuilder = () => {
         </FormProvider>
       </div>
 
+
+
       {/* Right: JSON */}
       <JsonPreview fields={watchedFields || []} />
     </div>
